@@ -1,6 +1,6 @@
 name: Check Python style
 
-on: [pull_request, push]
+on: [push]
 
 jobs:
   check_style:
